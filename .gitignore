@@ -24,3 +24,6 @@ windows/tests/**/solr-data/**/*
 *.pem
 *.crt
 *.key
+.vs/docker-images/v16/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
